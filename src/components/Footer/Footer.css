@@ -1,0 +1,14 @@
+.footer {
+  bottom: 0;
+  height: 64px;
+  flex-grow: 1;
+  background-color: #282828;
+  color: #f2f2f2;
+}
+
+.footer__copyrightNotice {
+  padding: 16px 0;
+  margin: 0 16px;
+  font-weight: 400;
+  font-size: 18px;
+}

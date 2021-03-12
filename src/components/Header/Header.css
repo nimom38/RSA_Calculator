@@ -1,0 +1,21 @@
+.header {
+  flex-grow: 1;
+}
+
+.header__background {
+  flex-grow: 1;
+  height: 60vh;
+  background-size: cover;
+  border-radius: 0 !important;
+}
+
+.header__bannerText {
+  height: inherit;
+  width: inherit;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}

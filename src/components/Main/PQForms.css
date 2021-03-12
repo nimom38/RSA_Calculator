@@ -1,0 +1,16 @@
+.pqforms__container {
+  padding: 16px;
+  margin: 32px 0;
+}
+
+.pqforms__form {
+  margin: 16px 0;
+}
+
+.pqforms__formControl {
+  margin: 8px;
+}
+
+.pqforms__button {
+  margin: 0 auto;
+}
